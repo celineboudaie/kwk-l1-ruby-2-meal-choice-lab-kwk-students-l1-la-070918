@@ -17,15 +17,15 @@ def dinner(food="salmon")
 end
 
 # Call the methods with puts and your own arguments here. Like this:
-puts snacks("Swedish fish")
+puts snacks
 puts breakfast("cereal")
 puts lunch("salad")
 puts dinner("enchilada")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-def (snack="Sweedish Fish")
-  "When I'm in the mood for a snack I want #{snack}!"
+def (snacks="Sweedish Fish")
+  "When I'm in the mood for a snack I want #{snacks}!"
 end
 # Call your methods without any arguments here
 puts snacks
