@@ -27,10 +27,8 @@ puts dinner("enchilada")
 def (snack="Sweedish Fish")
   "When I'm in the mood for a snack I want #{snack}!"
 end
-
 # Call your methods without any arguments here
 puts snacks
-puts snacks("Swedish fish")
 puts breakfast("cereal")
 puts lunch("salad")
 puts dinner("enchilada")
