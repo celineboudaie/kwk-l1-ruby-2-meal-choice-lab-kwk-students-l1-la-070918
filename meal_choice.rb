@@ -17,7 +17,7 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-def (snack="Sweedish Fish")
+def (snack= "Sweedish Fish")
   "When I'm in the mood for a snack I want #{snack}!"
 end
 
